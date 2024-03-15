@@ -1,0 +1,10 @@
+
+# /
+/Readme.md
+/*.log
+
+# /backend/
+/backend/Readme.md logs.log
+
+# /frontend/
+/frontend/Readme.md logs.log

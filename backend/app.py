@@ -4,4 +4,3 @@ b = 1
 totale = a + b
 print(totale)
 
-print(
